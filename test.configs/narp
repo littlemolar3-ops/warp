@@ -1,0 +1,10 @@
+///text
+///text
+//profile-title: base64:bGl0dGxlIG1vbGFyIGNvbmZpZw==
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+//support-url: https://t.me/hiddify
+//profile-web-page-url: https://hiddify.com
+
+warp://A1@162.159.193.21:894#warp_in_warp -> warp://A2@162.159.193.19:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#m4
+warp://B1@162.159.193.21:894#WarpInWarp✅ -> warp://B2@162.159.193.19:894?ifpm=m4#LocalIP
