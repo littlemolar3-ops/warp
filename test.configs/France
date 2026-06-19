@@ -1,0 +1,9 @@
+///text
+///text
+//profile-title: base64:bGl0dGxlIG1vbGFyIGNvbmZpZw==
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+//support-url: https://t.me/hiddify
+//profile-web-page-url: https://hiddify.com
+
+warp://auto@162.159.193.21:894?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#Fast_WARP_Entry -> vless://c24d056b-9cf7-4bba-b6d3-b8d9e3b76ad8@187.124.44.115:443?hiddify=1&sni=187.124.44.115&type=ws&alpn=http%2F1.1&path=%2FdpNrdp0VTvmFc9yJDZlW0M5vlmV5h&host=187.124.44.115&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls#Foreign_Exit
